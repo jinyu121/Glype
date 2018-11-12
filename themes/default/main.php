@@ -253,7 +253,7 @@
 		</ul>
 	</div>
 	<div id="footer">
-		Powered by <a href="http://www.glype.com/">Glype</a>&reg; <!--[version]-->.
+		Powered by Glype&reg; <!--[version]-->.
 	</div>
 </div>
 </body>

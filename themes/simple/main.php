@@ -58,7 +58,7 @@
 		</ul>
 	</form>
 	
-	<p class="center">Powered by <a href="http://www.glype.com/">Glype</a>&reg; <!--[version]-->.</p>  
+	<p class="center">Powered by Glype&reg; <!--[version]-->.</p>  
 </div>
 </body>
 </html>
